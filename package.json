@@ -1,0 +1,26 @@
+{
+  "name": "markovbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ez-markov": "^1.2.1",
+    "mongoose": "^5.12.1",
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtagt/MarkovBot.git"
+  },
+  "author": "jackson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtagt/MarkovBot/issues"
+  },
+  "homepage": "https://github.com/jtagt/MarkovBot#readme"
+}
